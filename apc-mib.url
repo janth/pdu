@@ -1,0 +1,12 @@
+part no SFPMIB414
+http://www.apc.com/products/resource/include/techspec_index.cfm?base_sku=SFISXCFC50&tab=software
+ftp://ftp.apc.com/apc/public/software/pnetmib/mib/414/powernet414.mib
+
+
+StruxureWare Central v7.0.0
+part no SFSWC700
+http://www.apc.com/tools/download/software_comp.cfm?sw_sku=SFSWC700&id=350&family=350&part_num=SFISXCFC50&swfam=&tsk=
+
+
+wget -O netdisco-mibs-snapshot.tar.gz 'http://downloads.sourceforge.net/project/netdisco/netdisco-mibs/latest-snapshot/netdisco-mibs-snapshot.tar.gz?r=http%3A%2F%2Fsearch.cpan.org%2F%7Eoliver%2FApp-Netdisco-2.032005%2Flib%2FApp%2FNetdisco%2FManual%2FDeployment.pod&ts=1435913586&use_mirror=vorboss'
+wget http://standards.ieee.org/develop/regauth/oui/oui.txt
