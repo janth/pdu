@@ -1,0 +1,20 @@
+dh1 sone 1 stormgeo
+j80-venstre (sett med pduer an face): 00 c0 b7 ef 03 8f
+j80-h: 00 c0 b7 ef 03 8e
+j81-v: 00 c0 b7 8b 08 ed
+j81-h: 00 c0 b7 8b 09 01
+j83-v: 00 c0 b7 ef 03 93
+j83-h: 00 c0 b7 ef 03 5e (ip: 10.16.104.30)
+commrack-v: 00 c0 b7 ed fb 77
+commrack-h: 00 c0 b7 ee 80 a2
+n83-v: 00 c0 b7 8b 08 d1
+n83-h: 00 c0 b7 8b 08 ce
+n84-v: 00 c0 b7 8b 09 08
+n84-h: 00 c0 b7 8b 09 0e
+
+dh1 sone 4 spv
+e82-v: 00 c0 b7 8b 08 f4
+e82-h: 00 c0 b7 8b 09 03
+e83-v: 00 c0 b7 8b 08 f9 mangler nettkabel
+e83-h: 00 c0 b7 8b 09 00 mangler nettkabel
+
