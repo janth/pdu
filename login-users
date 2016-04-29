@@ -1,0 +1,7 @@
+https://github.com/janth/pdu/blob/master/doc/JSAI-7WFQKR_R4_EN.pdf
+admin-user:
+   apc:apc
+device-user:
+   device:apc
+readonly-user:
+   readonly:apc
